@@ -1,6 +1,6 @@
 ## M&M Stock Checker
 This is a personal project that checks the stock of an item on mandmdirect.com and sends an email if it comes back into stock.
-
+<b>CURRENTLY ONLY WORKING FOR SHOES ON THE WEBSITE. I HOPE TO ADDITIONAL TYPES OF CLOTHING SOON</b>
 ## Motivation
 After using mandmdirect a lot for online shopping, I found it frustrating that while an item can be a good price, the size your looking for is not always available. I figured that when a size goes out of stock that usually when returns are sent back they add it to the website. Usually if your standard sizes like me, them sizes dont last long when their put back up. So I decided to make this script that will notify you when your desired item comes back into stock.
 
